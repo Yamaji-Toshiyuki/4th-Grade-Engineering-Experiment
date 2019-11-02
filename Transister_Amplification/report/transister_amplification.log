@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.1-180901-2.6 (utf8.euc) (TeX Live 2019/dev/Debian) (preloaded format=platex 2019.7.23)  31 OCT 2019 15:40
+This is e-pTeX, Version 3.14159265-p3.8.1-180901-2.6 (utf8.euc) (TeX Live 2019/dev/Debian) (preloaded format=platex 2019.11.2)  2 NOV 2019 23:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -143,14 +143,7 @@ ax \par \fi \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempboxa
 Package caption Info: float package is loaded.
 Package caption Info: subfigure package is loaded.
 Package caption Info: wrapfig package is loaded.
-) (./transister_amplification.aux
-
-LaTeX Warning: Label `fig:1' multiply defined.
-
-
-LaTeX Warning: Label `fig:2' multiply defined.
-
-)
+) (./transister_amplification.aux)
 \openout1 = `transister_amplification.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -179,84 +172,57 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 28.
-File: ../images/fig-1.jpg Graphic file (type bmp)
-<../images/fig-1.jpg>
-
-
-LaTeX Warning: File `fig-2.png' not found on input line 38.
-
-
-! LaTeX Error: Cannot determine size of graphic in fig-2.xbb (no BoundingBox).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 ...  \includegraphics[height=50mm]{fig-2.png}
-                                                  
-? 
-File: fig-2.png Graphic file (type bmp)
-<fig-2.png>
+File: ../images/fig-1.png Graphic file (type bmp)
+<../images/fig-1.png>
+File: ../images/fig-2.png Graphic file (type bmp)
+<../images/fig-2.png>
 
 Overfull \hbox (2.22221pt too wide) in paragraph at lines 30--42
 [][]$[]$[] []$[]$[] 
  []
 
-File: ../images/fig-1.jpg Graphic file (type bmp)
-<../images/fig-1.jpg>
-! Undefined control sequence.
-l.50             \caption出力特性測定回路
-                                         }
-? 
-! Extra }, or forgotten \endgroup.
-l.50             \caption出力特性測定回路}
-                                          
-? 
-
-LaTeX Warning: File `fig-2.png' not found on input line 55.
-
-
-! LaTeX Error: Cannot determine size of graphic in fig-2.xbb (no BoundingBox).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.55 ...  \includegraphics[height=50mm]{fig-2.png}
-                                                  
-? 
-File: fig-2.png Graphic file (type bmp)
-<fig-2.png>
+File: ../images/fig-1.png Graphic file (type bmp)
+<../images/fig-1.png>
+File: ../images/fig-2.png Graphic file (type bmp)
+<../images/fig-2.png>
 
 Overfull \hbox (2.22221pt too wide) in paragraph at lines 47--59
 [][]$[]$[] []$[]$[] 
  []
 
- 
-! Package inputenc Error: Unicode character �^^84� (U+9127)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.62         \item 電圧計，電流計の^^e9^^84^^a7
-                                               禹給と内部抵抗を調べる．\\電...
-? 
 [1
 
-] (./transister_amplification.aux)
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 73.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 73.
+File: ../images/fig-5.png Graphic file (type bmp)
+<../images/fig-5.png>
+File: ../images/fig-6.png Graphic file (type bmp)
+<../images/fig-6.png>
 
-LaTeX Warning: There were multiply-defined labels.
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 75--87
+[][]$[]$[] []$[]$[] 
+ []
 
- ) 
+File: ../images/fig-7.png Graphic file (type bmp)
+<../images/fig-7.png>
+File: ../images/fig-8.png Graphic file (type bmp)
+<../images/fig-8.png>
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 92--104
+[][]$[]$[] []$[]$[] 
+ []
+
+[2] [3] (./transister_amplification.aux) ) 
 Here is how much of TeX's memory you used:
- 2385 strings out of 493224
- 36389 string characters out of 6145947
- 113880 words of memory out of 5000000
- 6393 multiletter control sequences out of 15000+600000
- 9804 words of font info for 40 fonts, out of 8000000 for 9000
- 929 hyphenation exceptions out of 8191
- 36i,8n,39p,229b,399s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 2419 strings out of 494319
+ 36844 string characters out of 6171545
+ 110602 words of memory out of 5000000
+ 6319 multiletter control sequences out of 15000+600000
+ 12364 words of font info for 49 fonts, out of 8000000 for 9000
+ 264 hyphenation exceptions out of 8191
+ 36i,8n,39p,229b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on transister_amplification.dvi (1 page, 2304 bytes).
+Output written on transister_amplification.dvi (3 pages, 5280 bytes).
