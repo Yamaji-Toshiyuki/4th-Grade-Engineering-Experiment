@@ -1,0 +1,32 @@
+# Fdb version 3
+["dvipdf"] 0 "d:/Document/4ESHŠwÀŒ±/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è.dvi" "d:/Document/4ESHŠwÀŒ±/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è.pdf" "d:/Document/4ESHŠwÀŒ±/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è" 0
+  "d:/Document/4ESHŠwÀŒ±/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è.dvi" 1563204028 2452 259e379685dd4e9c695b6d80183135d4 "pdflatex"
+  (generated)
+  "d:/Document/4ESHŠwÀŒ±/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è.pdf"
+["pdflatex"] 1563204031 "d:/Document/4ESHŠwÀŒ±/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è.tex" "d:/Document/4ESHŠwÀŒ±/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è.dvi" "‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è" 1563204031
+  "d:/Document/4ESHŠwÀŒ±/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è.aux" 1563204028 542 dc035164900dfa2314eaf4188bf73e5f ""
+  "d:/Document/4ESHŠwÀŒ±/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è.tex" 1563204016 2014 263497dfec9c4c880dfa4c74cc6f5fe1 ""
+  "d:/software/texlive/texlive/2019/texmf-dist/tex/latex/caption/caption.sty" 1560811231 68576 86bbc6bd5a409b3c353fccc1a815fa5b ""
+  "d:/software/texlive/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty" 1560811231 68510 943558eecf41da4e76fc614fd7f5deff ""
+  "d:/software/texlive/texlive/2019/texmf-dist/tex/latex/float/float.sty" 1560814003 6749 16d2656a1984957e674b149555f1ea1d ""
+  "d:/software/texlive/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1560814349 1224 978390e9c2234eab29404bc21b268d1e ""
+  "d:/software/texlive/texlive/2019/texmf-dist/tex/latex/graphics-def/dvipdfmx.def" 1560814350 10299 c742d2190e924996d2f4e34b541cd5e3 ""
+  "d:/software/texlive/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty" 1560814346 15272 5a97061616e0c8b2aa79c6615ff769f4 ""
+  "d:/software/texlive/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty" 1560814346 9063 d0a305975932762117cd1f06a582f896 ""
+  "d:/software/texlive/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty" 1560814346 2591 6404d0c7d28505fb38ce0d86c2e28ae7 ""
+  "d:/software/texlive/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty" 1560814346 3977 cb9221976ed8a183afad65b59aa8629a ""
+  "d:/software/texlive/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.cfg" 1560817982 2062 a0e7d66e09e508f51289a656aec06ed2 ""
+  "d:/software/texlive/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.sty" 1560817982 15188 91281c7ddbccfa54a8e0c3b56ab5aa72 ""
+  "d:/software/texlive/texlive/2019/texmf-dist/tex/latex/titlesec/titlesec.sty" 1560818513 37387 afa86533e532701faf233f3f592c61e0 ""
+  "d:/software/texlive/texlive/2019/texmf-dist/tex/latex/wrapfig/wrapfig.sty" 1560819126 26220 3701aebf80ccdef248c0c20dd062fea9 ""
+  "d:/software/texlive/texlive/2019/texmf-dist/tex/platex/base/jarticle.cls" 1560816810 25768 7795b6eb199d132d0146c0d315b25fef ""
+  "d:/software/texlive/texlive/2019/texmf-dist/web2c/texmf.cnf" 1560814942 35683 50a220a7a2a515000b0c7ffa04d5889f ""
+  "d:/software/texlive/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1560819731 4269169 0ee18a1022680ca9abcb76de5f55fa33 ""
+  "d:/software/texlive/texlive/2019/texmf.cnf" 1560819422 673 4ae7b2f49cee444c5343a45b5d0f169c ""
+  "‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è.aux" 0 -1 0 "pdflatex"
+  "‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è.tex" 1563204016 2014 263497dfec9c4c880dfa4c74cc6f5fe1 ""
+  (generated)
+  "d:/Document/4ESHŠwÀŒ±/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è.dvi"
+  "d:/Document/4ESHŠwÀŒ±/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è/‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è.log"
+  "‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è.log"
+  "‰‰Z‘•‰ñ˜H‚Ì§ì‚Æ“Á«‘ª’è.aux"

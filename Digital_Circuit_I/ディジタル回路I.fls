@@ -1,0 +1,11 @@
+PWD d:/Document/4ES工学実験
+INPUT d:/software/texlive/2018/texmf.cnf
+INPUT d:/software/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT d:/software/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT d:/Document/4ES工学実験/ディジタル回路I.tex
+OUTPUT d:/Document/4ES工学実験/ディジタル回路I.log
+INPUT d:/software/texlive/2018/texmf-dist/tex/platex/base/jreport.cls
+INPUT d:/software/texlive/2018/texmf-dist/tex/platex/base/jreport.cls
+INPUT d:/Document/4ES工学実験/ディジタル回路I.aux
+INPUT d:/Document/4ES工学実験/ディジタル回路I.aux
+OUTPUT d:/Document/4ES工学実験/ディジタル回路I.aux

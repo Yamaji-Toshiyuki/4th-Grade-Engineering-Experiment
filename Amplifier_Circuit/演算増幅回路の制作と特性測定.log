@@ -1,0 +1,290 @@
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.6.18)  16 JUL 2019 12:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**演算増幅回路の制作と特性測定.tex
+(./演算増幅回路の制作と特性測定.tex
+pLaTeX2e <2019-04-06> (based on LaTeX2e <2018-12-01>)
+(d:/software/texlive/texlive/2019/texmf-dist/tex/platex/base/jarticle.cls
+Document Class: jarticle 2019/04/02 v1.8b Standard pLaTeX class
+\c@@paper=\count83
+(d:/software/texlive/texlive/2019/texmf-dist/tex/platex/base/jsize10.clo
+File: jsize10.clo 2019/04/02 v1.8b Standard pLaTeX file (size option)
+)
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 614.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count92
+)
+(d:/software/texlive/texlive/2019/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box43
+\beforetitleunit=\skip43
+\aftertitleunit=\skip44
+\ttl@plus=\dimen121
+\ttl@minus=\dimen122
+\ttl@toksa=\toks15
+\titlewidth=\dimen123
+\titlewidthlast=\dimen124
+\titlewidthfirst=\dimen125
+)
+(d:/software/texlive/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/software/texlive/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(d:/software/texlive/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/software/texlive/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(d:/software/texlive/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
+
+(d:/software/texlive/texlive/2019/texmf-dist/tex/latex/graphics-def/dvipdfmx.de
+f
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+) (d:/software/texlive/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(d:/software/texlive/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: dvipdfmx.def on input line 147.
+
+(d:/software/texlive/texlive/2019/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(d:/software/texlive/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count93
+\float@exts=\toks17
+\float@box=\box44
+\@float@everytoks=\toks18
+\@floatcapt=\box45
+)
+(d:/software/texlive/texlive/2019/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen128
+\WF@size=\dimen129
+\c@WF@wrappedlines=\count94
+\WF@box=\box46
+\WF@everypar=\toks19
+Package: wrapfig 2003/01/31  v 3.6
+)
+(d:/software/texlive/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip45
+\subfigcapskip=\skip46
+\subfigcaptopadj=\dimen130
+\subfigbottomskip=\skip47
+\subfigcapmargin=\dimen131
+\subfiglabelskip=\skip48
+\c@subfigure=\count95
+\c@lofdepth=\count96
+\c@subtable=\count97
+\c@lotdepth=\count98
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(d:/software/texlive/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip49
+\subfig@bottom=\skip50
+) (d:/software/texlive/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+(d:/software/texlive/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen132
+\captionmargin@=\dimen133
+\captionwidth=\dimen134
+\caption@tempdima=\dimen135
+\caption@indent=\dimen136
+\caption@parindent=\dimen137
+\caption@hangindent=\dimen138
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \iftdir \sbox \@tempboxa {#1\hskip 1zw#2}\else \sbox \@tempboxa {#1: #2}\fi \
+ifdim \wd \@tempboxa >\hsize \iftdir #1\hskip 1zw#2\relax \par \else #1: #2\rel
+ax \par \fi \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempboxa
+ \hfil }\fi \vskip \belowcaptionskip .
+\c@caption@flags=\count99
+\c@ContinuedFloat=\count100
+Package caption Info: float package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: wrapfig package is loaded.
+) (./演算増幅回路の制作と特性測定.aux)
+\openout1 = `演算増幅回路の制作と特性測定.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 19.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 19.
+ [1
+
+]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 45.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 45.
+File: text/fig-1.jpg Graphic file (type bmp)
+<text/fig-1.jpg>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 53.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 53.
+
+
+LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
+(Font)              using `JT1/gt/m/n' instead on input line 84.
+
+
+LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
+(Font)              using `JY1/gt/m/n' instead on input line 84.
+
+File: text/fig-2.jpg Graphic file (type bmp)
+<text/fig-2.jpg>
+[2]
+File: text/fig-3.jpg Graphic file (type bmp)
+<text/fig-3.jpg>
+File: text/fig-4.jpg Graphic file (type bmp)
+<text/fig-4.jpg>
+ [3] [4] [5]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 228.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 228.
+
+Overfull \hbox (12.11754pt too wide) in paragraph at lines 228--251
+ [][][][] 
+ []
+
+File: experiment/7-1-1.png Graphic file (type bmp)
+<experiment/7-1-1.png>
+
+Overfull \hbox (11.15564pt too wide) in paragraph at lines 221--259
+[][][][] 
+ []
+
+File: Result/Reverse/reverse-Hannten(input_10mV_output_95mV).png Graphic file (
+type bmp)
+<Result/Reverse/reverse-Hannten(input_10mV_output_95mV).png>
+File: Result/Reverse/reverse-Hannten(input_1000mV_output_9120mV).png Graphic fi
+le (type bmp)
+<Result/Reverse/reverse-Hannten(input_1000mV_output_9120mV).png>
+File: Result/Reverse/reverse-Hannten(input_8120mV_output_12200mV).png Graphic f
+ile (type bmp)
+<Result/Reverse/reverse-Hannten(input_8120mV_output_12200mV).png>
+[6] [7]
+Overfull \hbox (12.11754pt too wide) in paragraph at lines 292--307
+ [][][][] 
+ []
+
+File: experiment/7-2-1.png Graphic file (type bmp)
+<experiment/7-2-1.png>
+
+Overfull \hbox (11.15564pt too wide) in paragraph at lines 285--315
+[][][][] 
+ []
+
+File: Result/Reverse/reverse-Hannten(input_10mV_output_95mV).png Graphic file (
+type bmp)
+<Result/Reverse/reverse-Hannten(input_10mV_output_95mV).png>
+File: Result/Reverse/reverse-Hihannten(input_1000mV_output_9600mV).png Graphic 
+file (type bmp)
+<Result/Reverse/reverse-Hihannten(input_1000mV_output_9600mV).png>
+File: Result/Reverse/reverse-Hihannten(input_3000mV_output_11900mV).png Graphic
+ file (type bmp)
+<Result/Reverse/reverse-Hihannten(input_3000mV_output_11900mV).png>
+[8] [9]
+Overfull \hbox (14.17308pt too wide) in paragraph at lines 349--366
+ [][][][] 
+ []
+
+File: experiment/7-3-1.png Graphic file (type bmp)
+<experiment/7-3-1.png>
+
+Overfull \hbox (11.15564pt too wide) in paragraph at lines 342--374
+[][][][] 
+ []
+
+[10]
+Overfull \hbox (14.17308pt too wide) in paragraph at lines 389--406
+ [][][][] 
+ []
+
+File: experiment/7-4-1.png Graphic file (type bmp)
+<experiment/7-4-1.png>
+
+Overfull \hbox (11.15564pt too wide) in paragraph at lines 382--414
+[][][][] 
+ []
+
+[11]
+File: Result/Reverse/reverse-1kHz_4900pF.png Graphic file (type bmp)
+<Result/Reverse/reverse-1kHz_4900pF.png>
+File: Result/Reverse/reverse-1kHz_47000pF.png Graphic file (type bmp)
+<Result/Reverse/reverse-1kHz_47000pF.png>
+ [12] [13] (./演算増幅回路の制作と特性測定.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2474 strings out of 493216
+ 39181 string characters out of 6140691
+ 117199 words of memory out of 5000000
+ 6465 multiletter control sequences out of 15000+600000
+ 12553 words of font info for 49 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 36i,17n,39p,324b,509s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on 演算増幅回路の制作と特性測定.dvi (13 pages, 30356 bytes).

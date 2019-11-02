@@ -1,0 +1,50 @@
+\documentclass[10pt, a4j, dvipdfmx]{jarticle}
+\usepackage{titlesec}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{subfigure}
+\usepackage{caption}
+
+%\makeatletter
+%\newcommand{\figcaption}[1]{\def\@captype{figure}\caption{#1}}
+%\newcommand{\tblcaption}[1]{\def\@captype{table}\caption{#1}}
+%\makeatother
+
+\title{ディジタル回路III}
+\author{4年 電子システム工学科 40番  山地 駿徹}
+
+\begin{document}
+    \section{目的}
+        集積化されたNAND回路を用いて，パルス幅決定(用単安定)回路，パルス増幅器を組み立て，実験を通してその動作原理，特性を理解する．
+        なお，ディジタル回路IIで組み立てた前段回路と合わせてパルス発生回路を作ることを目的とする．
+
+    \section{原理}
+        \subsection*{単安定回路B(パルス幅決定回路)の動作}
+            % \begin{figure}
+            %     \centering
+            %     \includegraphics[width=\hsize]{}
+            %     \caption{単安定回路B(パルス幅決定回路)}
+            %     \label{fig:2.1.circuit}
+            % \end{figure}
+            図1の単安定会とにおいて，可変抵抗の抵抗値Rを変化させることによりパルス幅を容易に変化させることができる．
+            前段の微分回路によりパルス幅の非常に狭いパルスを作成し，NAND回路により反転している．
+            単安定回路は，入力ｋがL(負のトリガに相当)となると時定数CRに比例した時間
+            \begin*{equation}
+                CR\ln{(V_H / V_S)}
+            \end{equation}
+            だけLとなるパルスを出力する．
+            (次段のパルス増幅器で反転するため，Lの幅がパルス幅となる．)
+
+            ディジタル回路IIの同期信号で同期させて，各店k,l,o,qの各波形を観測して相互の関係を求めると図2のようになる．
+            % \begin{figure}
+            %     \centering
+            %     \includegraphics[width=\hsize]{}
+            %     \caption{実験方法と実験結果処理}
+            %     \label{fig:2.1.graph}
+            % \end{figure}
+
+    \section{実験方法と実験結果の処理}
+            \subsection{}
+
+\end{document}
