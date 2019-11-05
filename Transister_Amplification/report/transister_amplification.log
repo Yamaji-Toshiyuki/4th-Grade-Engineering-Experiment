@@ -1,8 +1,8 @@
-This is e-pTeX, Version 3.14159265-p3.8.1-180901-2.6 (utf8.euc) (TeX Live 2019/dev/Debian) (preloaded format=platex 2019.11.2)  5 NOV 2019 08:37
+This is e-pTeX, Version 3.14159265-p3.8.1-180901-2.6 (utf8.euc) (TeX Live 2019/dev/Debian) (preloaded format=platex 2019.7.23)  5 NOV 2019 12:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**transister_amplification.tex platex transister_amplification.tex
+**transister_amplification.tex
 (./transister_amplification.tex
 pLaTeX2e <2018-12-01> (based on LaTeX2e <2018-12-01>)
 (/usr/share/texlive/texmf-dist/tex/platex/base/jarticle.cls
@@ -153,6 +153,9 @@ Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
 (./transister_amplification.aux
 
 LaTeX Warning: Label `fig:10' multiply defined.
+
+
+LaTeX Warning: Label `tbl:14' multiply defined.
 
 )
 \openout1 = `transister_amplification.aux'.
@@ -359,7 +362,100 @@ File: ../images/ex-2.png Graphic file (type bmp)
  [9]
 File: ../images/ex-3.png Graphic file (type bmp)
 <../images/ex-3.png>
- [10] (./transister_amplification.aux)
+ [10]
+File: ../images/ex-4.png Graphic file (type bmp)
+<../images/ex-4.png>
+ [11] [12]
+File: ../images/ex-5.png Graphic file (type bmp)
+<../images/ex-5.png>
+ [13] [14]
+File: ../images/ex-6.png Graphic file (type bmp)
+<../images/ex-6.png>
+ [15] [16]
+File: ../images/ex-7.png Graphic file (type bmp)
+<../images/ex-7.png>
+File: ../images/ex-8.png Graphic file (type bmp)
+<../images/ex-8.png>
+ [17]
+File: ../images/ex-9.png Graphic file (type bmp)
+<../images/ex-9.png>
+ [18]
+File: ../images/ex-10.png Graphic file (type bmp)
+<../images/ex-10.png>
+File: ../images/ex-5.png Graphic file (type bmp)
+<../images/ex-5.png>
+File: ../images/fig-10.png Graphic file (type bmp)
+<../images/fig-10.png>
+
+Overfull \hbox (14.2266pt too wide) in paragraph at lines 718--720
+ [] 
+ []
+
+[19] [20]
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 766.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 766.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 766.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 766.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 767.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 767.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 767.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 767.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 768.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 768.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 768.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 768.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 769.
+
+File: ../images/ex-11.png Graphic file (type bmp)
+<../images/ex-11.png>
+File: ../images/ex-12.bmp Graphic file (type bmp)
+<../images/ex-12.bmp>
+[21]
+File: ../images/ex-13.bmp Graphic file (type bmp)
+<../images/ex-13.bmp>
+File: ../images/ex-14.bmp Graphic file (type bmp)
+<../images/ex-14.bmp>
+ [22]
+File: ../images/ex-15.bmp Graphic file (type bmp)
+<../images/ex-15.bmp>
+ [23] [24] [25]
+File: ../images/ex-16.png Graphic file (type bmp)
+<../images/ex-16.png>
+ [26] [27] (./transister_amplification.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -371,12 +467,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2555 strings out of 494319
- 39031 string characters out of 6171545
- 121602 words of memory out of 5000000
- 6436 multiletter control sequences out of 15000+600000
+ 2622 strings out of 493224
+ 40016 string characters out of 6145947
+ 137880 words of memory out of 5000000
+ 6586 multiletter control sequences out of 15000+600000
  12861 words of font info for 50 fonts, out of 8000000 for 9000
- 264 hyphenation exceptions out of 8191
- 36i,18n,39p,351b,399s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 929 hyphenation exceptions out of 8191
+ 36i,18n,39p,315b,399s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on transister_amplification.dvi (10 pages, 38516 bytes).
+Output written on transister_amplification.dvi (27 pages, 102704 bytes).
