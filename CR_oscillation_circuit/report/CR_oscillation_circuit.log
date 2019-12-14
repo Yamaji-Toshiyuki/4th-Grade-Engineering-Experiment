@@ -1,0 +1,360 @@
+This is e-pTeX, Version 3.14159265-p3.8.1-180901-2.6 (utf8.euc) (TeX Live 2019/dev/Debian) (preloaded format=platex 2019.7.23)  10 DEC 2019 11:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**CR_oscillation_circuit.tex
+(./CR_oscillation_circuit.tex
+pLaTeX2e <2018-12-01> (based on LaTeX2e <2018-12-01>)
+(/usr/share/texlive/texmf-dist/tex/platex/base/jarticle.cls
+Document Class: jarticle 2018/10/25 v1.8a Standard pLaTeX class
+\c@@paper=\count83
+(/usr/share/texlive/texmf-dist/tex/platex/base/jsize10.clo
+File: jsize10.clo 2018/10/25 v1.8a Standard pLaTeX file (size option)
+)
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 614.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count92
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box43
+\beforetitleunit=\skip43
+\aftertitleunit=\skip44
+\ttl@plus=\dimen121
+\ttl@minus=\dimen122
+\ttl@toksa=\toks15
+\titlewidth=\dimen123
+\titlewidthlast=\dimen124
+\titlewidthfirst=\dimen125
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: dvipdfmx.def on input line 147.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count93
+\float@exts=\toks17
+\float@box=\box44
+\@float@everytoks=\toks18
+\@floatcapt=\box45
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen128
+\WF@size=\dimen129
+\c@WF@wrappedlines=\count94
+\WF@box=\box46
+\WF@everypar=\toks19
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip45
+\subfigcapskip=\skip46
+\subfigcaptopadj=\dimen130
+\subfigbottomskip=\skip47
+\subfigcapmargin=\dimen131
+\subfiglabelskip=\skip48
+\c@subfigure=\count95
+\c@lofdepth=\count96
+\c@subtable=\count97
+\c@lotdepth=\count98
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip49
+\subfig@bottom=\skip50
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen132
+\captionmargin@=\dimen133
+\captionwidth=\dimen134
+\caption@tempdima=\dimen135
+\caption@indent=\dimen136
+\caption@parindent=\dimen137
+\caption@hangindent=\dimen138
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \iftdir \sbox \@tempboxa {#1\hskip 1zw#2}\else \sbox \@tempboxa {#1: #2}\fi \
+ifdim \wd \@tempboxa >\hsize \iftdir #1\hskip 1zw#2\relax \par \else #1: #2\rel
+ax \par \fi \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempboxa
+ \hfil }\fi \vskip \belowcaptionskip .
+\c@caption@flags=\count99
+\c@ContinuedFloat=\count100
+Package caption Info: float package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: wrapfig package is loaded.
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip51
+\multirow@cntb=\count101
+\multirow@dima=\skip52
+\bigstrutjot=\dimen139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen140
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count102
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count103
+\leftroot@=\count104
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count105
+\DOTSCASE@=\count106
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count107
+\c@MaxMatrixCols=\count108
+\dotsspace@=\muskip10
+\c@parentequation=\count109
+\dspbrk@lvl=\count110
+\tag@help=\toks21
+\row@=\count111
+\column@=\count112
+\maxfields@=\count113
+\andhelp@=\toks22
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks23
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(./CR_oscillation_circuit.aux)
+\openout1 = `CR_oscillation_circuit.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 34.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 34.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 35.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 35.
+LaTeX Font Info:    Try loading font information for U+msa on input line 36.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 36.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 37.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 37.
+
+
+LaTeX Warning: Reference `fig:1' on page 1 undefined on input line 37.
+
+File: ../image/txt-1.jpg Graphic file (type bmp)
+<../image/txt-1.jpg>
+[1
+
+] [2]
+File: ../image/txt-2.jpg Graphic file (type bmp)
+<../image/txt-2.jpg>
+File: ../image/txt-3.jpg Graphic file (type bmp)
+<../image/txt-3.jpg>
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 159--169
+[][]$[]$[] []$[]$[] 
+ []
+
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 172--182
+[][]$[]$[] []$[]$[] 
+ []
+
+File: ../image/txt-4.jpg Graphic file (type bmp)
+<../image/txt-4.jpg>
+File: ../image/txt-5.jpg Graphic file (type bmp)
+<../image/txt-5.jpg>
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 188--198
+[][]$[]$[] []$[]$[] 
+ []
+
+[3]
+File: ../image/Ic-Vce.png Graphic file (type bmp)
+<../image/Ic-Vce.png>
+
+Overfull \hbox (4.39566pt too wide) in paragraph at lines 212--213
+ [][] 
+ []
+
+File: ../image/Ib-Vbe.png Graphic file (type bmp)
+<../image/Ib-Vbe.png>
+
+Overfull \hbox (25.73413pt too wide) in paragraph at lines 217--218
+ [][] 
+ []
+
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 210--220
+[][]$[]$[] []$[]$[] 
+ []
+
+[4]
+File: ../image/circuit.png Graphic file (type bmp)
+<../image/circuit.png>
+
+Overfull \hbox (72.43973pt too wide) in paragraph at lines 262--278
+ [][][][] 
+ []
+
+[5]
+File: ../image/ex_1.png Graphic file (type bmp)
+<../image/ex_1.png>
+File: ../image/104.bmp Graphic file (type bmp)
+<../image/104.bmp>
+ [6]
+File: ../image/222.bmp Graphic file (type bmp)
+<../image/222.bmp>
+File: ../image/472.bmp Graphic file (type bmp)
+<../image/472.bmp>
+File: ../image/223.bmp Graphic file (type bmp)
+<../image/223.bmp>
+File: ../image/683.bmp Graphic file (type bmp)
+<../image/683.bmp>
+ [7]
+File: ../image/684.bmp Graphic file (type bmp)
+<../image/684.bmp>
+ [8]
+File: ../image/ex_2.png Graphic file (type bmp)
+<../image/ex_2.png>
+File: ../image/ib-ic.png Graphic file (type bmp)
+<../image/ib-ic.png>
+ [9] [10] [11] (./CR_oscillation_circuit.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3396 strings out of 493224
+ 48326 string characters out of 6145947
+ 131256 words of memory out of 5000000
+ 7346 multiletter control sequences out of 15000+600000
+ 12416 words of font info for 51 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 36i,12n,39p,308b,483s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on CR_oscillation_circuit.dvi (11 pages, 27968 bytes).
